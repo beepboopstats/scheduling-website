@@ -9,6 +9,9 @@ on:
 
 name: Quarto Render and Publish
 
+permissions:
+  contents: write
+
 jobs:
   render_publish:
     uses: biplabendu/gha-workflows/.github/workflows/render-publish-ghpages.yml@main
