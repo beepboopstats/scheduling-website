@@ -8,8 +8,8 @@ execute:
   warning: false
   
 website:
-  title: "Website Title Here"
-  google-analytics: "UA-121215066-1"
+  title: "Website-Title"
+  # google-analytics: "UA-121215066-1"
   reader-mode: false
   page-footer: Beep Boop Stats
   # top nav
@@ -20,13 +20,23 @@ website:
     left:
       # - text: "Home"
       #   file: index.qmd
+      - text: "Book Appointments"
+        file: book_appointments.qmd
+      - text: "Instagram"
+        file: instagram.qmd
       - text: "Contact"
         file: contact/index.qmd
 
 format:
   html:
-    fontsize: 1.3em
-    theme: solar
+    theme: 
+      light: 
+        - pulse
+        - assets/css/styles.scss
+      dark: 
+        - darkly
+        - assets/css/styles.scss
+    fontsize: 1.1em
     page-layout: full
     toc: true
     toc-depth: 4

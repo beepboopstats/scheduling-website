@@ -16,7 +16,7 @@ about:
 
 ::: {#about-block}
 
-## Some Dude, M.Tech
+## Your Name, M.Tech
 
 Dude works at Beep Boop Stats. When not working, Dude enjoys 
 spending time on A, B, and C.
