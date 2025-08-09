@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "instagram.html",
-    "href": "instagram.html",
-    "title": "Website-Title",
-    "section": "",
-    "text": "View this profile on Instagram\n        \n        \n        \n          \n            \n            \n            \n          \n          \n            \n            \n          \n          \n            \n            \n            \n          \n        \n        \n          \n          \n        \n      \n      \n        Amelia (Mealz) VanDuzee (@hair.by.mealz) • Instagram photos and videos"
-  },
-  {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "You can contact me at abc@zzzz.com"
-  },
-  {
-    "objectID": "book_appointments.html",
-    "href": "book_appointments.html",
-    "title": "Book an appointment",
-    "section": "",
-    "text": "Kindly use the following app to schedule an appointment with me."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Website-Title",
@@ -40,5 +19,26 @@
     "title": "Website-Title",
     "section": "",
     "text": "Head Data Scientist, Beep Boop Stats LLC, April 2018 - present\nChief Analyst, The Other Company, Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "instagram.html",
+    "href": "instagram.html",
+    "title": "Website-Title",
+    "section": "",
+    "text": "View this profile on Instagram\n        \n        \n        \n          \n            \n            \n            \n          \n          \n            \n            \n          \n          \n            \n            \n            \n          \n        \n        \n          \n          \n        \n      \n      \n        Amelia (Mealz) VanDuzee (@hair.by.mealz) • Instagram photos and videos"
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me at abc@zzzz.com"
+  },
+  {
+    "objectID": "book_appointments.html",
+    "href": "book_appointments.html",
+    "title": "Book an appointment",
+    "section": "",
+    "text": "Kindly use the following app to schedule an appointment with me."
   }
 ]
