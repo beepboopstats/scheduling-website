@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Website-Title",
-    "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nDude works at Beep Boop Stats. When not working, Dude enjoys spending time on A, B, and C.\n\n\n\n\nHead Data Scientist, Beep Boop Stats LLC, April 2018 - present\nChief Analyst, The Other Company, Sept 2012 - April 2018\nLast updated on 2026-04-23"
-  },
-  {
-    "objectID": "index.html#your-name-m.tech",
-    "href": "index.html#your-name-m.tech",
-    "title": "Website-Title",
-    "section": "",
-    "text": "Dude works at Beep Boop Stats. When not working, Dude enjoys spending time on A, B, and C."
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Website-Title",
-    "section": "",
-    "text": "Head Data Scientist, Beep Boop Stats LLC, April 2018 - present\nChief Analyst, The Other Company, Sept 2012 - April 2018"
-  },
-  {
     "objectID": "book_appointments.html",
     "href": "book_appointments.html",
     "title": "Book an appointment",
@@ -40,5 +19,26 @@
     "title": "Contact",
     "section": "",
     "text": "You can contact me at abc@zzzz.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website-Title",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nDude works at Beep Boop Stats. When not working, Dude enjoys spending time on A, B, and C.\n\n\n\n\nHead Data Scientist, Beep Boop Stats LLC, April 2018 - present\nChief Analyst, The Other Company, Sept 2012 - April 2018\nLast updated on 2026-04-24"
+  },
+  {
+    "objectID": "index.html#your-name-m.tech",
+    "href": "index.html#your-name-m.tech",
+    "title": "Website-Title",
+    "section": "",
+    "text": "Dude works at Beep Boop Stats. When not working, Dude enjoys spending time on A, B, and C."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Website-Title",
+    "section": "",
+    "text": "Head Data Scientist, Beep Boop Stats LLC, April 2018 - present\nChief Analyst, The Other Company, Sept 2012 - April 2018"
   }
 ]
